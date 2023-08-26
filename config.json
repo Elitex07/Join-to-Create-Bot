@@ -1,0 +1,12 @@
+{
+    "token": "Bot-Token",
+    "prefix": ".",
+    
+    "channelId": "channelId",
+    "userLimit": 4,
+    "nameFormat": "〔🎤〕",
+    "categoryId": "categoryId",
+    "bitrate": 96000,
+    "memberPerms": ["Connect", "ManageChannels", "ManageRoles", "MoveMembers"],
+    "everyonePerms": ["Connect", "Speak", "ViewChannel"]
+}

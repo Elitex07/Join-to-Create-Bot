@@ -1,0 +1,27 @@
+{
+  "name": "j2c-bot",
+  "version": "1.0.0",
+  "description": "A J2C in DJS v14",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elitex07/Join-to-Create-Bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "J2C-Bot"
+  ],
+  "author": "Elitex07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elitex07/Join-to-Create-Bot/issues"
+  },
+  "homepage": "https://github.com/Elitex07/Join-to-Create-Bot#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.13.0"
+  }
+}
